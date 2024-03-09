@@ -6,10 +6,10 @@ There are a lot more projects coming into the repos â³. Please bear with me ğŸ™
 <!--
 ![hannanfikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannanfikri&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannanfikri)](https://github.com/hannanfikri/github-readme-stats) -->
 
-<a href="https://github.com/hannanfikri/github-readme-stats">
+<a href="https://github.com/hannanfikri">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hannanfikri&show_icons=true" />
 </a>
-<a href="https://github.com/hannanfikri/convoychat">
+<a href="https://github.com/hannanfikri">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hannanfikri&layout=compact&langs_count=8&card_width=320" />
 </a>
 
